@@ -1,0 +1,5 @@
+language: swift
+os:
+  - osx
+script:
+  - xcodebuild -target yaft-cocoa -configuration Release
