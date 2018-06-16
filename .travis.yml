@@ -1,4 +1,6 @@
 language: swift
+swift:
+  - 4.1
 os:
   - osx
 script:
